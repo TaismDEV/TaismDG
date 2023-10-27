@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taism Chaniev</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-- 🔭 I’m currently working on **project for a construction company**
-
 - 📫 How to reach me **taismdg@icloud.com**
 
 <h3 align="left">Connect with me:</h3>

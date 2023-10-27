@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on **project for a construction company**
 
-- I’m currently learning **React Native**
-
-- 💬 Ask me about **JS, TS React, Nest, Express, PostgreSQL**
-
 - 📫 How to reach me **taismdg@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
